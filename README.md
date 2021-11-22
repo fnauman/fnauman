@@ -1,4 +1,8 @@
-### Hi there 👋
+I am a AI researcher at the Research Institutes of Sweden (RISE), Linköping. I am working on projects that use machine learning to improve sustainability in Swedish industries. My work involves time series and computer vision. My background is in physics, in particular, computational fluid dynamics for astrophysical flows. 
+
+I am interested in various techniques related to time series and dynamical systems. 
+
+
 
 <!--
 **fnauman/fnauman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
