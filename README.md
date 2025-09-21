@@ -1,8 +1,8 @@
-I am a AI researcher at the Research Institutes of Sweden (RISE), Linköping. I am working on projects that use machine learning to improve sustainability in Swedish industries. My work involves time series and computer vision. My background is in physics, in particular, computational fluid dynamics for astrophysical flows. 
+I am a AI & Machine Learning consultant based in Linköping. I specialize in Time Series, Computer Vision and LLMs. I have 6+ years of experience in the AI and data science domain. 
 
-I am interested in various techniques related to time series and dynamical systems. 
+My side projects are often related to computational fluid dynamics (PhD) and machine learning. I am fond of time series forecasting, which is what originally attracted me to machine learning. 
 
-
+As of fall 2025, I am most excited to learn about Reinforcement Learning and how its sample efficiency can be leveraged in domains other than language like time series. If you'd like to collaborate, feel free to get in touch.
 
 <!--
 **fnauman/fnauman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
